@@ -61,7 +61,8 @@ docs/html
 docs/latex
 docs/xml
 
-docs/doxygen-awesome-css
 docs/Doxyfile
 docs/html
 docs/latex
+
+rp2040

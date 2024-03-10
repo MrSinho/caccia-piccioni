@@ -1,0 +1,34 @@
+PROJECT_NAME           = "Caccia Piccioni"
+PROJECT_BRIEF          = "Per cacciare via i piccioni dal balcone di mia madre."
+PROJECT_NUMBER         = ${CP_VERSION}
+PROJECT_LOGO           = 
+
+USE_MDFILE_AS_MAINPAGE = ${CP_ROOT_DIR}/README.md
+
+OUTPUT_DIRECTORY       = docs
+INPUT                  = ${CP_ROOT_DIR}/README.md ${CP_ROOT_DIR}/cp/include ${CP_ROOT_DIR}/.shci/linux/log.md ${CP_ROOT_DIR}/.shci/windows/log.md 
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+HAVE_DOT               = NO
+HIDE_UNDOC_MEMBERS     = YES
+GENERATE_HTML          = YES
+GENERATE_XML           = YES
+GENERATE_LATEX         = YES
+USE_MATHJAX            = YES
+GENERATE_TREEVIEW      = YES
+DISABLE_INDEX          = NO
+FULL_SIDEBAR           = NO
+OPTIMIZE_OUTPUT_FOR_C  = YES
+STRIP_CODE_COMMENTS    = NO
+
+IMAGE_PATH             = ${CP_ROOT_DIR}/docs/media ${CP_ROOT_DIR}/.shci/linux ${CP_ROOT_DIR}/.shci/windows
+
+HTML_COLORSTYLE        = LIGHT
+HTML_EXTRA_STYLESHEET  = ${CP_ROOT_DIR}/docs/doxygen-awesome-css/doxygen-awesome.css ${CP_ROOT_DIR}/docs/custom.css
+HTML_EXTRA_FILES       = ${CP_ROOT_DIR}/docs/doxygen-awesome-css/doxygen-awesome-fragment-copy-button.js ${CP_ROOT_DIR}/docs/doxygen-awesome-css/doxygen-awesome-interactive-toc.js ${CP_ROOT_DIR}/docs/doxygen-awesome-css/doxygen-awesome-paragraph-link.js ${CP_ROOT_DIR}/docs/doxygen-awesome-css/doxygen-awesome-tabs.js ${CP_ROOT_DIR}/docs/doxygen-awesome-css/doxygen-awesome-darkmode-toggle.js
+
+HTML_HEADER            = ${CP_ROOT_DIR}/docs/header.html
+
+HTML_COLORSTYLE_HUE    = 209
+HTML_COLORSTYLE_SAT    = 255
+HTML_COLORSTYLE_GAMMA  = 113
