@@ -3,11 +3,11 @@
 ![](https://img.shields.io/badge/Sinho_softworks-A04000?style=for-the-badge&logo=&logoColor=white&labelColor=990042)
 [![](https://img.shields.io/badge/GitHub_repository-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrsinho/caccia-piccioni)
 
-> **Scritto per necessità, pubblicato per goliardia. È scaricabile anche la guida in versione pdf per chi volesse (non dice nulla di diverso da quello che è già scritto su questa pagina).**
+> **Scritto per necessità, pubblicato per goliardia. È scaricabile anche la [guida in versione pdf](https://github.com/MrSinho/caccia-piccioni/releases/download/v0.1.0/caccia-piccioni.pdf) per chi volesse (non dice nulla di diverso da quello che è già scritto su questa pagina).**
 
 [TOC]
 
-[CP](https://github.com/mrsinho/caccia-piccioni) sono le iniziali di "Caccia Piccioni". Non voglio la loro cacca sul mio balcone. 
+[CP](https://github.com/mrsinho/caccia-piccioni) sono le iniziali di "Caccia Piccioni". Non voglio la loro cacca sul mio balcone.
 
 ## Hardware
 
